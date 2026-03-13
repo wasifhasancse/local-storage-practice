@@ -2,7 +2,8 @@
 //   const user = {
 //     name: "wasif",
 //     age: 23,
-//     code: "js"
+//     code: "js",
+//     practice: "react"
 //   }
 //   localStorage.setItem('user', JSON.stringify(user))
 // }
